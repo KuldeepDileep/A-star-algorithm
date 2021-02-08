@@ -1,1 +1,1 @@
-# Jumping-frog-problem-solving-and-route-planning-with-A-star-algorithm
+# Jumping Frog problem and route planning with A* algorithm
